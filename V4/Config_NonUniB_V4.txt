@@ -1,0 +1,8 @@
+1) Radius of Beam: 20cm, Position of Beam: Z=+65cm
+2) Incidence angle: CosZ between [-1;-.0.70]
+3) Non-Uniform Magnetic field: uses 5mm step field map
+4) Propagation step = 100 microns
+5) Atmosphere is Nitrogen only
+6) Try to fill T2 with C3F8 gas and propagate particles
+7) The geometry has been updated from the measurements and solidwork from James Roth
+8) The shell (isofoam + aluminium alloy) is modeled
